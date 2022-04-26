@@ -31,6 +31,10 @@
 ```bash
 $ npm install
 ```
+#Documentación de api
+http://localhost:3000/api/docs
+usuario : hamburger
+contraseña : unodostres
 
 ## Running the app
 
